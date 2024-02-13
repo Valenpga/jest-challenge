@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "29.7.0"
+  
+  },
+  "name": "jest-challenge",
+  "description": "En este ejercicio, crearemos una aplicación simple de administración de productos usando JavaScript. Usaremos los test unitarios para asegurarnos de que nuestro código funcione según lo esperado. Para nuestro testing usaremos Jest.",
+  "version": "1.0.0",
+  "main": "product.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
